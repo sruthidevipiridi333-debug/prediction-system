@@ -1,0 +1,12 @@
+{
+  "name": "ecovolt-simulator",
+  "version": "1.0.0",
+  "description": "IoT device simulator for Ecovolt energy dashboard",
+  "main": "device.js",
+  "scripts": {
+    "start": "node device.js"
+  },
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.13"
+  }
+}

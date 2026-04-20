@@ -1,0 +1,1 @@
+This project is a dashboard building and connecting to aws iot
